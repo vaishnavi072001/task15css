@@ -1,0 +1,11 @@
+
+body::after{
+    content:"";
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    background-color: rgb(239, 144, 173);
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
